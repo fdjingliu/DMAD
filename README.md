@@ -5,7 +5,7 @@
 This is the official repository for the paper titled "**A Survey on Diffusion Models for Anomaly Detection**", submitted to 📰 [IJCAI 2025](https://www.ijcai.org/) ([Paper arXiv](http://arxiv.org/abs/2501.11430)s). This survey provides a comprehensive review of the latest advancements in diffusion models for anomaly detection (DMAD). We delve into the fundamental concepts of AD and DMs, and analyze classic DM architectures such as DDPMs, DDIMs, and Score SDEs. The paper categorizes existing DMAD methods into reconstruction-based, density-based, and hybrid approaches, offering detailed examinations of their methodological innovations. Additionally, we explore diverse tasks across different data modalities, including image, time series, video, and multimodal data analysis. The survey also addresses critical challenges and emerging research directions, such as computational efficiency, model interpretability, robustness enhancement, edge-cloud collaboration, and integration with large language models. This repository curates existing literature, available code, public datasets, and tools to facilitate learning for beginners.
 
 <img src="https://raw.githubusercontent.com/fdjingliu/DMAD/main/figs/f1.svg">
-<p align="center"><b>Taxonomy of diffusion models for anomaly detection</b></p>
+<p align="center" style="margin-top: -10px;"><b>Taxonomy of diffusion models for anomaly detection</b></p>
 
 ✨ If you found this survey and repository useful, please consider to star this repository and cite our survey paper:
 
