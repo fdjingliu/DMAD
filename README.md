@@ -6,7 +6,7 @@ This is the official repository for the paper titled "**A Survey on Diffusion Mo
 
 <img src="https://raw.githubusercontent.com/fdjingliu/DMAD/main/figs/f1.svg">
 <div align="center" style="margin-top: -10px;">
-  <h2><b>Taxonomy of diffusion models for anomaly detection</b></h2>
+  <h4>Taxonomy of diffusion models for anomaly detection</h4>
 </div>
 
 ✨ If you found this survey and repository useful, please consider to star this repository and cite our survey paper:
