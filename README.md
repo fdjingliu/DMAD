@@ -9,16 +9,16 @@ This is the official repository for the paper titled "**A Survey on Diffusion Mo
 
 ✨ If you found this survey and repository useful, please consider to star this repository and cite our survey paper:
 
-```latex
+```bibtex
 @misc{liu2025survey,
-  title = {A Survey on Diffusion Models for Anomaly Detection},
-  author = {Liu, Jing and Ma, Zhenchao and Wang, Zepu and Liu, Yang and Wang, Zehua and Sun, Peng and Song, Liang and Hu, Bo and Boukerche, Azzedine and Leung, Victor C. M.},
-  year = {2025},
-  month = jan,
-  number = {arXiv:2501.11430},
-  eprint = {2501.11430},
-  primaryclass = {cs},
-  doi = {10.48550/arXiv.2501.11430},
+    title = {A Survey on Diffusion Models for Anomaly Detection},
+    author = {Liu, Jing and Ma, Zhenchao and Wang, Zepu and Liu, Yang and Wang, Zehua and Sun, Peng and Song, Liang and Hu, Bo and Boukerche, Azzedine and Leung, Victor C. M.},
+    year = {2025},
+    month = jan,
+    number = {arXiv:2501.11430},
+    eprint = {2501.11430},
+    primaryclass = {cs},
+    doi = {10.48550/arXiv.2501.11430},
 }
 ```
 
