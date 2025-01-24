@@ -34,8 +34,6 @@ This is the official repository for the paper titled "**A Survey on Diffusion Mo
 * [Anomaly Detection Datasets for Diverse Task](#anomaly-detection-datasets-for-diverse-task)
 * [Anomaly Detection Tools](#anomaly-detection-tools)
 * [Related Topics](#related-topics)
-* [Citation](#citation)
-
 
 ## Reconstruction-based Anomaly Detection
 
