@@ -1,4 +1,9 @@
-# A Survey on Diffusion Models for Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/fdjingliu/DMAD) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/fdjingliu/DMAD) ![GitHub stars](https://img.shields.io/github/stars/fdjingliu/DMAD?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/fdjingliu/DMAD?color=blue&label=Forks) ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
+# [A Survey on Diffusion Models for Anomaly Detection](https://arxiv.org/pdf/2501.11430.pdf)
+
+<a href="https://arxiv.org/pdf/2501.11430.pdf" alt="paper"><img src="https://img.shields.io/badge/ArXiv-2501.11430-FAA41F.svg?style=flat" /></a>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/fdjingliu/DMAD) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/fdjingliu/DMAD) 
+![GitHub stars](https://img.shields.io/github/stars/fdjingliu/DMAD?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/fdjingliu/DMAD?color=blue&label=Forks) ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
 <!-- **Authors**: Jing Liu, Zhenchao Ma, Zepu Wang, Yang Liu, Zehua Wang, Peng Sun, Liang Song, Bo Hu, Azzedine Boukerche, Victor C.M. Leung -->
 
