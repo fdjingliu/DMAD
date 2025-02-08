@@ -5,7 +5,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/fdjingliu/DMAD) 
 ![GitHub stars](https://img.shields.io/github/stars/fdjingliu/DMAD?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/fdjingliu/DMAD?color=blue&label=Forks) ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
-
 <!-- **Authors**: Jing Liu, Zhenchao Ma, Zepu Wang, Yang Liu, Zehua Wang, Peng Sun, Liang Song, Bo Hu, Azzedine Boukerche, Victor C.M. Leung -->
 
 This is the official repository for the paper titled "**A Survey on Diffusion Models for Anomaly Detection**", submitted to 📰 [IJCAI 2025](https://www.ijcai.org/) ([Paper arXiv](http://arxiv.org/abs/2501.11430)). This survey provides a comprehensive review of the latest advancements in diffusion models for anomaly detection (DMAD). We delve into the fundamental concepts of anomaly detection and diffusion models, and analyze classic DM architectures such as DDPMs, DDIMs, and Score SDEs. The paper categorizes existing DMAD methods into reconstruction-based, density-based, and hybrid approaches, offering detailed examinations of their methodological innovations. Additionally, we explore diverse tasks across different data modalities, including image, time series, video, and multimodal data analysis. The survey also addresses critical challenges and emerging research directions, such as computational efficiency, model interpretability, robustness enhancement, edge-cloud collaboration, and integration with large language models. This repository curates existing literature, available code, public datasets, and tools to facilitate learning for beginners.
@@ -19,7 +18,7 @@ This is the official repository for the paper titled "**A Survey on Diffusion Mo
 ```bibtex
 @misc{liu2025survey,
     title = {A Survey on Diffusion Models for Anomaly Detection},
-    author = {Liu, Jing and Ma, Zhenchao and Wang, Zepu and Liu, Yang and Wang, Zehua and Sun, Peng and Song, Liang and Hu, Bo and Boukerche, Azzedine and Leung, Victor C. M.},
+    author = {Liu, Jing and Ma, Zhenchao and Wang, Zepu and Wang, Zou, Chenxuanyin and Ren, Jiayang and Zehua and Liu, Yang and Song, Liang and Hu, Bo and Leung, Victor C. M.},
     year = {2025},
     month = jan,
     number = {arXiv:2501.11430},
