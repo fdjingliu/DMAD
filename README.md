@@ -18,7 +18,7 @@ This is the official repository for the paper titled "**A Survey on Diffusion Mo
 ```bibtex
 @misc{liu2025survey,
     title = {A Survey on Diffusion Models for Anomaly Detection},
-    author = {Liu, Jing and Ma, Zhenchao and Wang, Zepu and Wang, Zou, Chenxuanyin and Ren, Jiayang and Zehua and Liu, Yang and Song, Liang and Hu, Bo and Leung, Victor C. M.},
+    author = {Liu, Jing and Ma, Zhenchao and Wang, Zepu and Wang, and Zou, Chenxuanyin and Ren, Jiayang and Zehua and Liu, Yang and Song, Liang and Hu, Bo and Leung, Victor C. M.},
     year = {2025},
     month = jan,
     number = {arXiv:2501.11430},
