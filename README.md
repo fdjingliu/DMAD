@@ -5,9 +5,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/fdjingliu/DMAD) 
 ![GitHub stars](https://img.shields.io/github/stars/fdjingliu/DMAD?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/fdjingliu/DMAD?color=blue&label=Forks) ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
-<!-- **Authors**: Jing Liu, Zhenchao Ma, Zepu Wang, Yang Liu, Zehua Wang, Peng Sun, Liang Song, Bo Hu, Azzedine Boukerche, Victor C.M. Leung -->
+<!-- **Authors**: Jing Liu, Zhenchao Ma, Zepu Wang, Chenxuanyin Zou, Jiayang Ren, Zehua Wang, Liang Song, Bo Hu, Yang Liu, and Victor C.M. Leung -->
 
-This is the official repository for the paper titled "**A Survey on Diffusion Models for Anomaly Detection**", submitted to 📰 [IJCAI 2025](https://www.ijcai.org/) ([Paper arXiv](http://arxiv.org/abs/2501.11430)). This survey provides a comprehensive review of the latest advancements in diffusion models for anomaly detection (DMAD). We delve into the fundamental concepts of anomaly detection and diffusion models, and analyze classic DM architectures such as DDPMs, DDIMs, and Score SDEs. The paper categorizes existing DMAD methods into reconstruction-based, density-based, and hybrid approaches, offering detailed examinations of their methodological innovations. Additionally, we explore diverse tasks across different data modalities, including image, time series, video, and multimodal data analysis. The survey also addresses critical challenges and emerging research directions, such as computational efficiency, model interpretability, robustness enhancement, edge-cloud collaboration, and integration with large language models. This repository curates existing literature, available code, public datasets, and tools to facilitate learning for beginners.
+Welcome to the official repository for "**A Survey on Diffusion Models for Anomaly Detection**", submitted to 📰 [IJCAI 2025](https://www.ijcai.org/) ([Paper arXiv](http://arxiv.org/abs/2501.11430)). Our survey examines the latest advancements in diffusion models for anomaly detection (DMAD), starting with fundamental concepts and progressing through classic DM architectures like DDPMs, DDIMs, and Score SDEs. Through systematic analysis, we categorize existing DMAD methods into three main approaches: reconstruction-based, density-based, and hybrid methodologies, providing detailed examinations of their innovative techniques. The research extends across various data modalities, exploring applications in image, time series, video, and multimodal data analysis. Furthermore, we address critical challenges and emerging research directions, including computational efficiency, model interpretability, robustness enhancement, edge-cloud collaboration, and integration with large language models. As a centralized resource, our repository curates existing literature, implementation code, public datasets, and essential tools to support researcher in the field.
 
 <img style="margin-bottom: -50px;" src="https://raw.githubusercontent.com/fdjingliu/DMAD/main/figs/f1.svg">
 <!-- <b align="center" style="margin-top: -10px;">Taxonomy of diffusion models for anomaly detection</b> -->
@@ -30,16 +30,18 @@ This is the official repository for the paper titled "**A Survey on Diffusion Mo
 
 ## Table of Contents
 
-* [Reconstruction-based Anomaly Detection](#reconstruction-based-anomaly-detection)
-* [Density-based Anomaly Detection](#density-based-anomaly-detection)
-* [Hybrid Approaches](#hybrid-approaches)
-* [Image Anomaly Detection](#image-anomaly-detection)
-* [Time Series Anomaly Detection](#time-series-anomaly-detection)
-* [Video Anomaly Detection](#video-anomaly-detection)
-* [Multimodal Anomaly Detection](#multimodal-anomaly-detection)
-* [Anomaly Detection Datasets for Diverse Task](#anomaly-detection-datasets-for-diverse-task)
-* [Anomaly Detection Tools](#anomaly-detection-tools)
-* [Related Topics](#related-topics)
+- [A Survey on Diffusion Models for Anomaly Detection](#a-survey-on-diffusion-models-for-anomaly-detection)
+  - [Table of Contents](#table-of-contents)
+  - [Reconstruction-based Anomaly Detection](#reconstruction-based-anomaly-detection)
+  - [Density-based Anomaly Detection](#density-based-anomaly-detection)
+  - [Hybrid Approaches](#hybrid-approaches)
+  - [Image Anomaly Detection](#image-anomaly-detection)
+  - [Time Series Anomaly Detection](#time-series-anomaly-detection)
+  - [Video Anomaly Detection](#video-anomaly-detection)
+  - [Multimodal Anomaly Detection](#multimodal-anomaly-detection)
+  - [Anomaly Detection Datasets for Diverse Task](#anomaly-detection-datasets-for-diverse-task)
+  - [Anomaly Detection Tools](#anomaly-detection-tools)
+  - [Related Topics](#related-topics)
 
 ## Reconstruction-based Anomaly Detection
 
