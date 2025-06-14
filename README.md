@@ -3,7 +3,7 @@
 <a href="https://arxiv.org/pdf/2501.11430.pdf" alt="paper"><img src="https://img.shields.io/badge/ArXiv-2501.11430-FAA41F.svg?style=flat" /></a>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/fdjingliu/DMAD) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/fdjingliu/DMAD) 
-![GitHub stars](https://img.shields.io/github/stars/fdjingliu/DMAD?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/fdjingliu/DMAD?color=blue&label=Forks) ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
+![GitHub stars](https://img.shields.io/github/stars/fdjingliu/DMAD?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/fdjingliu/DMAD?color=blue&label=Forks) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffdjingliu%2FDMAD&countColor=%23263759&style=flat-square)
 
 <!-- **Authors**: Jing Liu, Zhenchao Ma, Zepu Wang, Chenxuanyin Zou, Jiayang Ren, Zehua Wang, Liang Song, Bo Hu, Yang Liu, and Victor C.M. Leung -->
 
